@@ -42,7 +42,7 @@
 
 ### 프로젝트  절차 및  방법
 
-
+#### - V모델 기반 설계
 ![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/221f0e08-6052-46b2-afaa-464d74fdf86c)
 
 
