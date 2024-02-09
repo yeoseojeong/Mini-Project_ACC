@@ -24,13 +24,7 @@
 
 ### Flow Chart
 
-![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/d7447c5f-7553-4708-8535-05f7efe33469)
-
-![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/9e76e229-4f37-49e7-9c6c-6dfd2e00417a)
-
-![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/0ac06f01-c37b-40a4-a333-356534a63cae)
-
-![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/50846000-fe9b-425b-a7db-b0b9e5dfa500)
+![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/d7447c5f-7553-4708-8535-05f7efe33469)![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/9e76e229-4f37-49e7-9c6c-6dfd2e00417a)![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/0ac06f01-c37b-40a4-a333-356534a63cae)![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/50846000-fe9b-425b-a7db-b0b9e5dfa500)
 
 ---
 
@@ -49,9 +43,10 @@
 ### 프로젝트  절차 및  방법
 
 
-![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/33b1302c-eab7-43aa-981b-862508986d30)
+![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/221f0e08-6052-46b2-afaa-464d74fdf86c)
 
 
+---
 
 ### 단위 & 통합 테스트 결과
 
@@ -59,10 +54,10 @@
 
 ![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/12585102-33a5-4384-82c7-745a269cd2f2)
 
-
+---
 ### 개발 일정 관리
 
 ![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/80b67428-ef38-4567-b613-e1eb31fa6407)
 
 
-
+---
