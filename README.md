@@ -3,7 +3,7 @@
 
 
 
-### 요구사항서
+### 요구사양서
 
 ![image](https://github.com/yeoseojeong/Mini-Project_ACC/assets/121150215/6dccfc4b-6cdf-486a-becc-2303937ba24d)
 
